@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/JessicaML/edume-server/issues"
   },
-  "homepage": "https://github.com/JessicaML/edume-server#readme"
+  "homepage": "https://github.com/JessicaML/edume-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "util": "^0.11.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.3"
+  }
 }
